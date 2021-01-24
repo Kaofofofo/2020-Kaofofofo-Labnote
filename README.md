@@ -1,4 +1,4 @@
-# 2020-Tom-Labnote
+# 2020-Kaofofofo-Labnote
 
 The research repository.
 
